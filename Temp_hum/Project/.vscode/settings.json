@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "pwm_out.h": "c",
+        "i2c.h": "c",
+        "external_interrupt.h": "c",
+        "delay.h": "c",
+        "motor_pid.h": "c",
+        "system.h": "c",
+        "timer_interrupt.h": "c",
+        "stm32f10x_it.h": "c",
+        "uart.h": "c",
+        "gui.h": "c"
+    }
+}
